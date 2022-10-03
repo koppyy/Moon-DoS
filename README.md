@@ -13,8 +13,8 @@
 
 ![alt text](https://i.imgur.com/BAAdzBt.gif)
 
-# Moon-Dos
-Ferramenta de Dos
+# Moon-DoS
+Ferramenta de DoS
 ![alt text](https://i.imgur.com/0nMr439.jpg)
 
 #### *INSTALAÇÃO*  
